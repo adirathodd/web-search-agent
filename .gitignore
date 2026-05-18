@@ -49,3 +49,5 @@ htmlcov/
 # AI
 *claude*
 *antigravity*
+CLAUDE.md
+.claude/
